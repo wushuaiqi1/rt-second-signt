@@ -1,0 +1,6 @@
+# load config step two
+health:
+  report:
+    endpoint: application-default-endpoint
+    app-name: application-default-server-name
+    app-env: application-default
