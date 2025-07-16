@@ -1,0 +1,6 @@
+# load config step one
+health:
+  report:
+    endpoint: bootstrap-default-endpoint
+    app-name: bootstrap-default-server-name
+    app-env: bootstrap-default
